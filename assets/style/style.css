@@ -1,0 +1,10 @@
+p {
+  color: green ;
+  font-weight: 700;
+}
+.text-p1 {
+ color: red ;
+}
+#id-text-p1 {
+  color: blue ;
+}
