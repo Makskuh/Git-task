@@ -1,10 +1,26 @@
+main {
+  display:inline-block;
+}
+h1 {
+  color: green;
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+}
+article {
+  border: 2px solid red;
+  margin: 0 auto;
+}
 p {
-  color: green ;
-  font-weight: 700;
+  font-weight: 450;
+  text-align: justify;
+  line-height: 1.5;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-style: italic;
+  border:inherit ;
 }
-.text-p1 {
- color: red ;
-}
-#id-text-p1 {
-  color: blue ;
+h1:hover {
+  font-size: 34px;
+  color: orangered;
+  transition: 30ms;
 }
