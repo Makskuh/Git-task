@@ -1,11 +1,26 @@
-* {
+body {
+  width: 1200px;
   margin: 0 auto;
+  padding-top: 4px;
+  box-sizing: border-box;
 }
-img {
-  width: 600px;
-  height: 600px;
-  padding: 40px 50px 60px 10px;
-  background-color: aqua;
-  border: 4px dashed red;
-  border-radius: 40px;
+main {
+  width: 1200px;
+  border: 10px solid saddlebrown;
+
+  
+}
+div {
+  margin: -2px;
+  display: inline-block ;
+}
+.white { 
+  height: 150px;
+  width: 150px;
+  background-color:white;
+}
+.black {
+  background-color: black;
+  height: 150px;
+  width: 150px;
 }
