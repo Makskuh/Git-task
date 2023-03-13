@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+.h2-header {
+  color: initial;
+  margin: 25px auto;
+  padding: 30px;
+  background-color: aqua;
+  border-radius: 15px;
+  min-width: 300px; 
+  min-height: 65px;
+  max-width: 500px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.div { 
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  display: inline-block;
+  text-align: center;
+  background-color: cadetblue;
+  width: 100px;
+  height: 100px;
+
+}
+.hidden-3 {
+  display: none;
+}
+.hidden-2 {
+  opacity: 0;
+}
+.hidden-1 {
+  visibility: hidden;
+}
