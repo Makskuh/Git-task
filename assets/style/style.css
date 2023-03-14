@@ -13,11 +13,8 @@ table {
   border-radius: 30px;
 }
 th,td {
-  padding: 5px;
+  padding: 15px;
   font-weight: 500;
-}
-th {
-  line-height: ;
 }
 button {
   border-radius: 15px;
