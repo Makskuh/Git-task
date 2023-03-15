@@ -30,6 +30,7 @@ thead {
   font-weight: bold;
 } 
 .th-head-1 {
+  vertical-align: middle;
   font-size: 40px;
   font-weight: 800;
   background-color:rgba(71, 101, 171, 0.68)
